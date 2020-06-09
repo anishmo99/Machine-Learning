@@ -1,4 +1,4 @@
-# Machine-Learning-On-Google-Colab
+# Machine Learning
 
 <h2>Stores the basic models I've worked on :</h3>
 

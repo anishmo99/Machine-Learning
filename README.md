@@ -1,6 +1,6 @@
 # Machine Learning
 
-<h2>Stores the basic models I've worked on :</h3>
+<h2>Stores the basic models I've worked on :</h2>
 
 1. <a href='https://github.com/anishmo99/Machine-Learning-On-Google-Colab/blob/master/fuelPolynomial81_69.ipynb'>CO2 Emission Prediction Model</a> is a basic polynomial regression model with an accuracy of 81.69%. It is based on the CO2 emission of a car depending on various features
 <br><h4>Link to the dataset : <a href='https://github.com/anishmo99/Machine-Learning-On-Google-Colab/blob/master/FuelConsumptionCo2.csv'>Fuel Consumption Dataset</a> </h4>
